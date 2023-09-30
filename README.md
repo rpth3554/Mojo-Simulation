@@ -1,8 +1,8 @@
-# Mojo-Simulation
+# Mojo-Simulation :Computer Aided Simulation Results Processor
 A mojo Codebase to Process simulation Results.
-# CASR Processing: Computer Aided Simulation Results Processor
 
-Welcome to the CASR Processing GitHub repository! This tool efficiently processes vast amounts of computer-aided simulation results, some reaching up to several gibibytes. We have incorporated the capabilities of the [Lasso-python](https://github.com/path_to_lasso_python) repository to provide an unparalleled experience in simulation data management and analysis.
+
+Welcome to the Mojo-Simulation GitHub repository! This tool efficiently processes vast amounts of computer-aided simulation results, some reaching up to several gibibytes. We have incorporated the capabilities of the [Lasso-python](https://github.com/path_to_lasso_python) repository to provide a fast and efficient experience in simulation data management and analysis.
 
 ## Table of Contents
 
