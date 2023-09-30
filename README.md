@@ -36,6 +36,6 @@ Welcome to the Mojo-Simulation GitHub repository! This tool efficiently processe
 Run the mojo file.
 ![image](https://github.com/rpth3554/Mojo-Simulation/assets/93345440/f9cfd62f-cacc-473a-863e-870add66c55e)
 
-Navigate to the d3plot path 
-click the load simulation result button 
+1)Navigate to the d3plot path 
+2)Click the load simulation result button 
 
