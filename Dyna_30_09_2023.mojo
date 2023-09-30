@@ -6,14 +6,6 @@ from utils.index import Index
 from random import rand
 
 
-#xrandr --output eDP-1 --off --output HDMI-1 --auto
-#from lasso.dyna import D3plot, ArrayType, FilterType
-#https://github.com/modularml/mojo/issues/551
-#mojo build g3.mojo in the folder 
-#https://gemello.se/Blog2/post_21.html
-
-#/media/bladerunner/New Volume/CAE/PROJECTS/NCAP/2018-dodge-ram-coarse-v3d/
-
 
 fn load_data(path: String,remember_selection:String):
     try:
