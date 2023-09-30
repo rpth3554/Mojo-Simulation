@@ -23,10 +23,10 @@ Welcome to the Mojo-Simulation GitHub repository! This tool efficiently processe
 ## Installation
 
 1. **Clone this repository**:
-   
+   https://github.com/rpth3554/Mojo-Simulation.git
 2. **Navigate to the repository**:
 3. **Install required dependencies**:
-4. **Ensure you have Lasso-python**: If not, follow the installation instructions on [Lasso-python's repository](https://github.com/path_to_lasso_python).
+4. **Ensure you have Lasso-python**: If not, follow the installation instructions on [Lasso-python's repository](https://github.com/open-lasso-python/lasso-python).
 
 ## Usage
 
