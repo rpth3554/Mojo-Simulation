@@ -36,9 +36,10 @@ Welcome to the Mojo-Simulation GitHub repository! This tool efficiently processe
 Run the mojo file.
 ![image](https://github.com/rpth3554/Mojo-Simulation/assets/93345440/f9cfd62f-cacc-473a-863e-870add66c55e)
 
-##1)Download and unzip the d3plot.7zip file if you dont have a result file with you**:
-##2)click the select d3plot button -> Navigate to the d3plot path**: 
-##3)Click the load simulation result button **:.
+2. **GUI Help**:
+  ##1)Download and unzip the d3plot.7zip file if you dont have a result file with you**:
+  ##2)click the select d3plot button -> Navigate to the d3plot path**: 
+  ##3)Click the load simulation result button **:.
 
 
 ## License
