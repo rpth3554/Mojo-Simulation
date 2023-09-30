@@ -38,4 +38,8 @@ Run the mojo file.
 
 1)Navigate to the d3plot path 
 2)Click the load simulation result button 
+Contributing
+We welcome contributions! Please see our CONTRIBUTING.md file for details on how to get started.
 
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
