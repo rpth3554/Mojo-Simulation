@@ -53,7 +53,7 @@ To get a more comprehensive understanding and visual guidance on how to utilize 
 
 To get a more comprehensive understanding and visual guidance on how to utilize CASR Processing, check out our tutorial on YouTube:
 
-[![Processing Tutorial](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=PwJ0MLvNCZc "Processing Tutorial")
+[![Processing Tutorial](https://i9.ytimg.com/vi_webp/PwJ0MLvNCZc/mq3.webp?sqp=CJi24agG&rs=AOn4CLD1HLRCu9RBzz4AKt2u5x6g1PJiKw)](https://www.youtube.com/watch?v=PwJ0MLvNCZc "Processing Tutorial")
 
 
 
