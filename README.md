@@ -41,11 +41,8 @@ Run the mojo file.
 Contributing
 We welcome contributions! Please see our CONTRIBUTING.md file for details on how to get started.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Tutorials and Demonstrations
-To get a more comprehensive understanding and visual guidance on how to utilize CASR Processing, check out our tutorial on YouTube:
 
 
 
