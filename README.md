@@ -1,4 +1,4 @@
-![image](https://github.com/rpth3554/Mojo-Simulation/assets/93345440/ec1dac9a-e071-4770-9441-33f3895144de)# Mojo-Simulation :Computer Aided Simulation Results Processor
+# Mojo-Simulation :Computer Aided Simulation Results Processor
 A mojo Codebase to Process simulation Results.
 
 
