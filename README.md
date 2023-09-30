@@ -1,4 +1,4 @@
-# Mojo-Simulation :Computer Aided Simulation Results Processor
+![image](https://github.com/rpth3554/Mojo-Simulation/assets/93345440/ec1dac9a-e071-4770-9441-33f3895144de)# Mojo-Simulation :Computer Aided Simulation Results Processor
 A mojo Codebase to Process simulation Results.
 
 
@@ -31,8 +31,11 @@ Welcome to the Mojo-Simulation GitHub repository! This tool efficiently processe
 ## Usage
 
 1. **Basic Usage**:
+   
 
-Replace `your_input_file.sim` with your simulation results and `output_processed_data.sim` with your desired output filename.
+Run the mojo file.
+![image](https://github.com/rpth3554/Mojo-Simulation/assets/93345440/f9cfd62f-cacc-473a-863e-870add66c55e)
 
-```bash
-python casr_processor.py --input your_input_file.sim --output output_processed_data.sim
+Navigate to the d3plot path 
+click the load simulation result button 
+
